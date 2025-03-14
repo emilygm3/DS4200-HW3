@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+.inline-item {
+
+    display: inline;
+
+}
+
+#home {
+    border: 3px solid black;
+    padding: 20px;
+    background-color: #fdffc3;
+}
+
+#abt_eras {
+    border: 5px solid rgb(139, 150, 150);
+    padding: 10px;
+    background-color: rgb(255, 220, 246);
+}
+
+#nav_bar {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+}
+
+#email {
+    border: 1px solid rgb(0, 21, 255);
+    padding: 10px;
+    background-color: rgb(146, 155, 255);
+}
+
+#linkedin {
+    border: 1px solid rgb(0, 142, 142);
+    padding: 10px;
+    background-color: rgb(146, 216, 216);
+}
