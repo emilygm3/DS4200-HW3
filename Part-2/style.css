@@ -1,0 +1,18 @@
+
+#boxplot {
+    position: relative;
+    top: 230px; /* Adjust as needed */
+    left: 20px;
+}
+
+#barplot {
+    position: relative;
+    top: 85px; /* Adjust as needed */
+    left: 850px;
+}
+
+#lineplot {
+    position: relative;
+    top: 800px; /* Adjust as needed */
+    left: 625px;
+}
