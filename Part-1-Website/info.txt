@@ -1,0 +1,3 @@
+This folder contains all the files for Part 2 of HW3, including the HTML, JS, and CSS files. It also contains the images I used in the site,
+along with the writeup about the customizations I created and the link to my website.
+LINK TO WEBSITE: emilygm3.github.io
